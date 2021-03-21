@@ -1,0 +1,23 @@
+{
+    "name": "Conquer Swap Token",
+    "website": "https://conquerswap.finance/",
+    "source_code": "https://github.com/conquerswap",
+    "description": "Conquer Swap is a decentralized exchange running on Binance Smart Chain and Pancake swap exchange, with lots of other features that let you earn and win tokens by staking your tokens in our pools.",
+    "research": "https://conquerswap.gitbook.io/conquer-swap/",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ConquerSwap"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://conquerswap.gitbook.io/conquer-swap/"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x094B21EcC329DE2e8F24C51aBd5188c608403643",
+    "type": "BEP20",
+    "symbol": "BOAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x094B21EcC329DE2e8F24C51aBd5188c608403643"
+}
